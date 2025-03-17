@@ -2,20 +2,12 @@
   "name": "Atlas API Docs",
   "theme": "mint",
   "colors": {
-    "primary": "#4A90E2",
-    "background": "#ffffff",
-    "text": "#333333"
+    "primary": "#4A90E2"
   },
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [{ "name": "Introduction", "path": "introduction.mdx" }, { "name": "Quickstart", "path": "quickstart.mdx" }]
-    },
-    {
-      "group": "API Reference",
-      "pages": [{ "name": "API Overview", "path": "api/openapi.json" }]
-    }
-  ],
+  "navigation": {
+    "Getting Started": ["introduction.mdx", "quickstart.mdx"],
+    "API Reference": ["api/openapi.json"]
+  },
   "api": {
     "openapi": "api/openapi.json"
   },
