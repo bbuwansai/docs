@@ -9,8 +9,9 @@
   "api": {
     "openapi": "api/openapi.json"
   },
-  "homepage": "introduction.mdx"
+  "homepage": "api/openapi.json"
 }
+
 
 
 
