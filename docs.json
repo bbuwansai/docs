@@ -5,10 +5,11 @@
     "primary": "#4A90E2"
   },
   "navigation": {
-    "Getting Started": ["introduction.mdx", "quickstart.mdx"],
-    "API Reference": ["api/api-reference.mdx"]
+    "API Reference": ["api/api-reference.mdx"],
+    "Getting Started": ["introduction.mdx", "quickstart.mdx"]
   },
   "homepage": "api/api-reference.mdx"
 }
+
 
 
