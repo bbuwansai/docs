@@ -8,7 +8,7 @@
     "Getting Started": ["introduction.mdx", "quickstart.mdx"],
     "API Reference": ["api/api-reference.mdx"]
   },
-  "homepage": "introduction.mdx"
+  "homepage": "api/api-reference.mdx"
 }
 
 
