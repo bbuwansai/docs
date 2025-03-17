@@ -5,11 +5,6 @@
     "primary": "#4A90E2"
   },
   "navigation": {
-    "languages": [],
-    "versions": [],
-    "tabs": [],
-    "dropdowns": [],
-    "anchors": [],
     "groups": [
       {
         "group": "Getting Started",
@@ -17,12 +12,21 @@
       },
       {
         "group": "API Reference",
-        "openapi": "api/openapi.json"
+        "pages": []
       }
-    ]
+    ],
+    "languages": [],
+    "versions": [],
+    "tabs": [],
+    "dropdowns": [],
+    "anchors": []
+  },
+  "api": {
+    "openapi": "api/openapi.json"
   },
   "homepage": "introduction.mdx"
 }
+
 
 
 
