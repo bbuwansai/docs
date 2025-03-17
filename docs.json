@@ -1,16 +1,15 @@
 {
   "name": "Atlas API Docs",
   "theme": "mint",
-  "colors": {
-    "primary": "#4A90E2"
-  },
+  "colors": { "primary": "#4A90E2" },
   "navigation": {
     "Getting Started": ["introduction.mdx", "quickstart.mdx"],
-    "API Reference": ["api/openapi.json"]
+    "API Reference": ["api/api-reference.mdx"]
   },
   "api": {
     "openapi": "api/openapi.json"
   },
   "homepage": "introduction.mdx"
 }
+
 
