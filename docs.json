@@ -2,7 +2,11 @@
   "name": "Atlas API Docs",
   "theme": "mint",
   "navigation": [
-    { "group": "Getting Started", "pages": ["introduction.mdx", "quickstart.mdx"] }
+    { "group": "Getting Started", "pages": ["introduction.mdx", "quickstart.mdx"] },
+    { "group": "API Reference", "pages": ["api/openapi.json"] }
   ],
+  "api": {
+    "openapi": "api/openapi.json"
+  },
   "homepage": "introduction.mdx"
 }
