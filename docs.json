@@ -12,7 +12,7 @@
       },
       {
         "group": "API Reference",
-        "pages": []
+        "pages": ["api/openapi.json"]
       }
     ],
     "languages": [],
@@ -22,7 +22,7 @@
     "anchors": []
   },
   "api": {
-    "openapi": "api/atlas-api.json"
+    "openapi": "api/openapi.json"
   },
   "homepage": "introduction.mdx"
 }
