@@ -22,7 +22,7 @@
     "anchors": []
   },
   "api": {
-    "openapi": "api/openapi.json"
+    "openapi": "api/atlas-api.json"
   },
   "homepage": "introduction.mdx"
 }
